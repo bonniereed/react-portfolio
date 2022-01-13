@@ -32,7 +32,7 @@ function Project() {
                     style={styles.previousWork} id="previous-Work" class="previous-Work">
                     <h3 class="text-center">Previous Work:</h3>
                     <Carousel style={styles.previousWork} >
-                        <Carousel.Item interval={1500}>
+                        <Carousel.Item interval={5000}>
                             <a style={styles.a} href="https://github.com/bonniereed/eCommerceProject" target="_blank"> <img
                                 className="d-block  mx-auto"
                                 src={eCommerce}
