@@ -16,10 +16,10 @@ const styles = {
         color: '#e4688f'
     },
     caption: {
-        color: '#6ce1cc'
+        color: '#e4688f'
     },
     a: {
-        color: '#e4688f'
+        color: '#e4688f',
     }
 
 };
@@ -30,13 +30,13 @@ function Project() {
             <div>
                 <article
                     style={styles.previousWork} id="previous-Work" class="previous-Work">
-                    <h3>Previous Work:</h3>
-                    <Carousel style={styles.previousWork}>
+                    <h3 class="text-center">Previous Work:</h3>
+                    <Carousel style={styles.previousWork} >
                         <Carousel.Item interval={1500}>
                             <a style={styles.a} href="https://github.com/bonniereed/eCommerceProject" target="_blank"> <img
-                                className="d-block w-100"
+                                className="d-block  mx-auto"
                                 src={eCommerce}
-                                alt="eCommerce Project"
+                                alt="eCommerce Project" width="1280" height="720"
                             />https://github.com/bonniereed/eCommerceProject</a>
                             <Carousel.Caption>
                                 <h3 style={styles.caption} >eCommerce Project</h3>
@@ -44,9 +44,9 @@ function Project() {
                         </Carousel.Item>
                         <Carousel.Item interval={500}>
                             <a style={styles.a} href="https://budgettrack3r.herokuapp.com/" target="_blank"> <img
-                                className="d-block w-100"
+                                className="d-block  mx-auto"
                                 src={budget}
-                                alt="Budget Project"
+                                alt="Budget Project" width="1280" height="720"
                             />https://github.com/bonniereed/budgetTracker</a>
                             <Carousel.Caption>
                                 <h3 style={styles.caption} >Budget Project</h3>
@@ -54,9 +54,9 @@ function Project() {
                         </Carousel.Item>
                         <Carousel.Item interval={500}>
                             <a style={styles.a} href="https://fitnesstrack3r.herokuapp.com/?id=61b75e41dd556a00169f5eb2" target="_blank"> <img
-                                className="d-block w-100"
+                                className="d-block mx-auto"
                                 src={fitness}
-                                alt="Fitness Tracker Project"
+                                alt="Fitness Tracker Project" width="1280" height="720"
                             />https://github.com/bonniereed/fitnessTracker</a>
                             <Carousel.Caption>
                                 <h3 style={styles.caption}> Fitness Tracker Project</h3>
@@ -64,9 +64,9 @@ function Project() {
                         </Carousel.Item>
                         <Carousel.Item interval={500}>
                             <a style={styles.a} href="https://bonniereed.github.io/CodingQuiz/" target="_blank"> <img
-                                className="d-block w-100"
+                                className="d-block mx-auto"
                                 src={coding}
-                                alt="Coding Quiz Project"
+                                alt="Coding Quiz Project" width="1280" height="720"
                             />https://github.com/bonniereed/CodingQuiz </a>
                             <Carousel.Caption>
                                 <h3 style={styles.caption}> Coding Quiz </h3>
@@ -74,9 +74,9 @@ function Project() {
                         </Carousel.Item>
                         <Carousel.Item interval={500}>
                             <a style={styles.a} href="https://bonniereed.github.io/SMUPassGenerator/" target="_blank"> <img
-                                className="d-block w-100"
+                                className="d-block  mx-auto"
                                 src={pass}
-                                alt="Password Generator Project"
+                                alt="Password Generator Project" width="1280" height="720"
                             />https://github.com/bonniereed/SMUPassGenerator</a>
                             <Carousel.Caption>
                                 <h3 style={styles.caption}> Password Generator </h3>
@@ -84,9 +84,9 @@ function Project() {
                         </Carousel.Item>
                         <Carousel.Item interval={500}>
                             <a style={styles.a} href="https://github.com/bonniereed/Team-Profile-Generator" target="_blank"> <img
-                                className="d-block w-100"
+                                className="d-block  mx-auto"
                                 src={team}
-                                alt="Team Profile Generator Project"
+                                alt="Team Profile Generator Project" width="1280" height="720"
                             />https://github.com/bonniereed/Team-Profile-Generator</a>
                             <Carousel.Caption>
                                 <h3 style={styles.caption}> Team Profile Generator</h3>
