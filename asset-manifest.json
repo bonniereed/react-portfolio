@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.af5b8f10.css",
+    "main.js": "/react-portfolio/static/js/main.73092e3e.js",
+    "static/js/787.8c081f57.chunk.js": "/react-portfolio/static/js/787.8c081f57.chunk.js",
+    "static/media/IMG_8767.png": "/react-portfolio/static/media/IMG_8767.25d5e60f3b95c6a8de9d.png",
+    "static/media/ecommerce.png": "/react-portfolio/static/media/ecommerce.1f7b59d8b8c2cc348fd1.png",
+    "static/media/PasswordGenerator.png": "/react-portfolio/static/media/PasswordGenerator.c19cb7c67eea7091d534.png",
+    "static/media/Coding_Quiz.png": "/react-portfolio/static/media/Coding_Quiz.e3b297d5ecb151899547.png",
+    "static/media/budget.png": "/react-portfolio/static/media/budget.083067f26dec2db22b6e.png",
+    "static/media/fitness.png": "/react-portfolio/static/media/fitness.713f3edd9c9e6494bd13.png",
+    "static/media/team-profile-generator.png": "/react-portfolio/static/media/team-profile-generator.a41949fdc7907b04bde5.png",
+    "static/media/github.png": "/react-portfolio/static/media/github.45a1b98afc3e5d782ef6.png",
+    "static/media/envelope.png": "/react-portfolio/static/media/envelope.6cab6d796348d4ca2d3a.png",
+    "static/media/linkedin.png": "/react-portfolio/static/media/linkedin.621efcbfd6d379dc5f2a.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.af5b8f10.css.map": "/react-portfolio/static/css/main.af5b8f10.css.map",
+    "main.73092e3e.js.map": "/react-portfolio/static/js/main.73092e3e.js.map",
+    "787.8c081f57.chunk.js.map": "/react-portfolio/static/js/787.8c081f57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af5b8f10.css",
+    "static/js/main.73092e3e.js"
+  ]
+}
