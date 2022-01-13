@@ -42,7 +42,7 @@ function Project() {
                                 <h3 style={styles.caption} >eCommerce Project</h3>
                             </Carousel.Caption>
                         </Carousel.Item>
-                        <Carousel.Item interval={500}>
+                        <Carousel.Item interval={5000}>
                             <a style={styles.a} href="https://budgettrack3r.herokuapp.com/" target="_blank"> <img
                                 className="d-block  mx-auto"
                                 src={budget}
@@ -52,7 +52,7 @@ function Project() {
                                 <h3 style={styles.caption} >Budget Project</h3>
                             </Carousel.Caption>
                         </Carousel.Item>
-                        <Carousel.Item interval={500}>
+                        <Carousel.Item interval={5000}>
                             <a style={styles.a} href="https://fitnesstrack3r.herokuapp.com/?id=61b75e41dd556a00169f5eb2" target="_blank"> <img
                                 className="d-block mx-auto"
                                 src={fitness}
@@ -62,7 +62,7 @@ function Project() {
                                 <h3 style={styles.caption}> Fitness Tracker Project</h3>
                             </Carousel.Caption>
                         </Carousel.Item>
-                        <Carousel.Item interval={500}>
+                        <Carousel.Item interval={5000}>
                             <a style={styles.a} href="https://bonniereed.github.io/CodingQuiz/" target="_blank"> <img
                                 className="d-block mx-auto"
                                 src={coding}
@@ -72,7 +72,7 @@ function Project() {
                                 <h3 style={styles.caption}> Coding Quiz </h3>
                             </Carousel.Caption>
                         </Carousel.Item>
-                        <Carousel.Item interval={500}>
+                        <Carousel.Item interval={5000}>
                             <a style={styles.a} href="https://bonniereed.github.io/SMUPassGenerator/" target="_blank"> <img
                                 className="d-block  mx-auto"
                                 src={pass}
@@ -82,7 +82,7 @@ function Project() {
                                 <h3 style={styles.caption}> Password Generator </h3>
                             </Carousel.Caption>
                         </Carousel.Item>
-                        <Carousel.Item interval={500}>
+                        <Carousel.Item interval={5000}>
                             <a style={styles.a} href="https://github.com/bonniereed/Team-Profile-Generator" target="_blank"> <img
                                 className="d-block  mx-auto"
                                 src={team}
