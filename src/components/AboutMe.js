@@ -35,13 +35,12 @@ function AboutMe() {
           class="float-left"
         />
         <p>
-          I started my journey through adulthood by becoming a cosmetologist.
-          I worked in a salon for several years and eventually wanted to
-          challenge myself with a career change. I studied for the Comptia A+
-          Cert and started my tech job search. I have been in IT support for 6
+          I currently work out of my home as a technical consultant. I am capable of assisting my clients with any hardware/ software issues.
+          I am also available to build websites based on client needs and consultation.
+          I have been in IT support for 6
           years. I have wanted to branch out further and have a firm grasp on
           full stack web development which is what brought me to the SMU
-          bootcamp.
+          bootcamp. I am persuing a new career path with Full Stack Web technologies and look forward to gaining a deeper understanding.
         </p>
       </div>
     </article>
