@@ -13,6 +13,9 @@ const styles = {
         position: 'relative',
         color: '#e4688f',
         backgroundColor: '#f3e9c3',
+        height: '100vh',
+        width: '100%',
+
     },
     contactIcons: {
         maxHeight: '50px',

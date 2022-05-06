@@ -30,9 +30,9 @@ function AboutMe() {
       </div>
       <div>
         <img src={pic} style={styles.aboutMePic}
-          class="aboutMe"
+          class="aboutMe float-left"
           alt="Bonnie Reed"
-          class="float-left"
+
         />
         <p>
           I currently work out of my home as a technical consultant. I am capable of assisting my clients with any hardware/ software issues.
