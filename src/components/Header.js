@@ -38,7 +38,7 @@ function Header() {
               <a style={styles.a} href="#previous-Work"> Previous work </a>
             </li>
             <li class="nav-item px-3">
-              <a style={styles.a} href="#contact-Me"> Contact Me </a>
+              <a style={styles.a} href="#contact-Me"> Contact Me: </a>
             </li>
           </ul>
         </div>
