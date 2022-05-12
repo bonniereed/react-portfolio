@@ -36,11 +36,9 @@ function AboutMe() {
         />
         <p>
           I currently work out of my home as a technical consultant. I am capable of assisting my clients with any hardware/ software issues.
-          I am also available to build websites based on client needs and consultation.
-          I have been in IT support for 6
-          years. I have wanted to branch out further and have a firm grasp on
-          full stack web development which is what brought me to the SMU
-          bootcamp. I am persuing a new career path with Full Stack Web technologies and look forward to gaining a deeper understanding.
+          Experienced Systems Administrator with a demonstrated history of scripting and automating solutions for Mac and Windows support and reporting.
+          <br />
+          Looking for the next step in my career towards a full time Software Engineer.
         </p>
       </div>
     </article>
