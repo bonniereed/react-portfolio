@@ -41,7 +41,7 @@ function Footer() {
                     <a style={styles.contactIcons} href="mailto:bonniejeanreed@gmail.com" target="_blank"><img style={styles.contactIcons} class="icon img-fluid rounded"
                         src={envelope} alt="Envelope icon" /></a>
                     <a style={styles.contactIcons} href="tel:2543008020"><img style={styles.contactIcons} class="icon img-fluid rounded" src={phone} alt="Telephone icon" /></a>
-                    <a style={styles.contactIcons} href="https://docs.google.com/document/d/1OfJAlqWpMJMa9iYKNVPsiV5yUXIgVWAdGyDavKrzdhk?export=download" target="_blank"><img style={styles.contactIcons} class="icon img-fluid rounded" src={fileDownload}
+                    <a style={styles.contactIcons} href="https://docs.google.com/document/d/1ipSups574eLRsTZskhVygpiUtWBXSQiZ/edit?usp=sharing&ouid=106269293022068129099&rtpof=true&sd=true" target="_blank"><img style={styles.contactIcons} class="icon img-fluid rounded" src={fileDownload}
                         alt="File Download icon" /></a>
                 </div>
             </div>
